@@ -1,6 +1,6 @@
 # Couchsurfing Clone
 
-A website that clones Couchsurfings functionality.
+A website that clones the Couchsurfing's functionality.
 
 Quick start:
 
